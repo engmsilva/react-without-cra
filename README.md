@@ -1,4 +1,4 @@
-## Templete de Projeto React sem CRA
+## Template de Projeto React sem CRA
 
 Este template defini uma configuração para a crição de novos projetos React com Typescript sem o uso da ferramenta de criação de aplicativo React, **Create React App - CRA.**
 
