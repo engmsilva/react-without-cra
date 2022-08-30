@@ -14,5 +14,5 @@ A motivação da criação deste template vem da citação do Facebook, criador 
 >```
 
 
-Este template elimina a abstração das configurações do CRA e permiti ter acesso a estas configurações, facilitando a customização e o uso em arquitetura de microfrontends.
+Este template altera a abstração das configurações do CRA e permiti ter acesso a estas configurações, facilitando a customização e o uso em arquitetura de microfrontends.
 
